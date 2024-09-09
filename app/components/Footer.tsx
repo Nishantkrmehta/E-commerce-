@@ -36,7 +36,7 @@ const Footer = () => {
           <div className=" py-8 px-4 ">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
               {/* <img src={footerLogo} alt="Logo" className="max-w-[50px]" /> */}
-              Ur Next Bazaar
+              Urban Cart
             </h1>
             <p className="">
               We sell only the most exclusive and high quality products for you.
@@ -116,7 +116,7 @@ const Footer = () => {
         </div>
         <div>
           <div className="text-center py-10 border-t-2 border-gray-300/50">
-            @copyright 2024 All rights reserved || Made with ❤️ by Nawin
+            @copyright 2024 All rights reserved || Made with ❤️ by Nishant
           </div>
         </div>
       </section>

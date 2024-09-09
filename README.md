@@ -1,4 +1,4 @@
-<h1 align="center" style="border: 0;"> E-Commerce website (Ur Next Bazaar)</h1>
+<h1 align="center" style="border: 0;"> E-Commerce website (Urban Cart)</h1>
 
 Trying to create an e-commerce website using latest next-js
 
@@ -52,16 +52,16 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Preview
 
-[screencast-from-2024-05-12-02-19-24_qvn9Zgdn.webm](https://github.com/NawinKumarSharma/e-commerce/assets/126372969/9ac2c57d-c026-45cd-b8b0-0681c2512435)
+[screencast-from-2024-05-12-02-19-24_qvn9Zgdn.webm](https://github.com/Nishantkrmehta/e-commerce/assets/126372969/9ac2c57d-c026-45cd-b8b0-0681c2512435)
 
 or
 https://www.kapwing.com/videos/663fde853bc2d77f7415eed5
 
 ## Author
 
-**Author Name** &nbsp; : &nbsp; Nawin Kumar Sharma <br>
+**Author Name** &nbsp; : &nbsp; Nishant Kumar Mehta <br>
 
-**GitHub URI** &nbsp; &nbsp; &nbsp; : &nbsp; [nawinkumarsharma](https://github.com/nawinkumarsharma)
+**GitHub URI** &nbsp; &nbsp; &nbsp; : &nbsp; [nishantkumarmehta](https://github.com/Nishantkrmehta)
 
 ## License
 
