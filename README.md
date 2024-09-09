@@ -23,7 +23,7 @@ If your project needs any prerequisites or dependencies, list them here.
 Clone the project
 
 ```
-git clone git@github.com:nawinkumarsharma/e-commerce.git
+git clone git@github.com:Nishantkrmehta/e-commerce.git
 ```
 
 Setup the necessary environment variables
